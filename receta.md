@@ -1,13 +1,21 @@
 ## Ingredientes
-- Limones: 4
-- Agua: 1 litro
-- Azucar: 4 cucharadas
+
+* Limones: 4
+* Agua: 1 litro
+* Azucar: 2 cucharadas
+
 ## Pasos
-- Exprimir los limones.
-- Mezclar con el agua y el azucar.
-- Servir fria.
+
+* Exprimir los limones.
+* Mezclar con el agua y el azucar.
+* Servir fria.
+
 ## Variacion
-- Menta: 6 hojas
-- Macharlas ligeramente antes de servir.
+
+* Menta: 6 hojas
+* Macharlas ligeramente antes de servir.
+
 ## Servir
-- Hielo: 6 cubos
+
+* Hielo: 6 cubos
+
