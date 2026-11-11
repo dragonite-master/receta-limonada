@@ -8,3 +8,4 @@
 - Servir fria.
 ## Variacion
 - Menta: 6 hojas
+- Macharlas ligeramente antes de servir.
